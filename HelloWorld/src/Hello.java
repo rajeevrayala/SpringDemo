@@ -75,6 +75,7 @@ for(Entry entry:hashset){
 }
 System.out.println("Welcome to GIT");
 System.out.println("hgcdskhdf");
+System.out.println("hi");
 
 		/*Collection<Hello> list = (List<Hello>) map.values();
 		ArrayList<Hello> a = new ArrayList<Hello>();
