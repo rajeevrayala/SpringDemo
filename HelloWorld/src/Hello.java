@@ -45,6 +45,10 @@ public class Hello {
 		this.id=id;
 		this.name=name;
 	}
+	public Hello() {
+		// TODO Auto-generated constructor stub
+	}
+
 	public String toString(){
 		return "name is "+this.name+" Salary is "+this.salary;
 	}
@@ -55,7 +59,7 @@ System.out.println("Hello World");
 Hello h1= new Hello(30, "xyz",654);
 Hello h2= new Hello(10, "abc",3456);
 Hello h3= new Hello(20, "lmn",4655);
-Hello h4= new Hello(888888888888);
+Hello h4= new Hello();
 
 LinkedHashMap map= new LinkedHashMap();
 map.put(30, h1);
