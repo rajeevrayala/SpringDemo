@@ -68,6 +68,7 @@ Set<Entry<Integer,Hello>> hashset= map.entrySet();
 for(Entry entry:hashset){
 	System.out.println("Id is "+entry.getKey()+" "+ entry.getValue());
 }
+System.out.println("Welcome to GIT");
 
 		/*Collection<Hello> list = (List<Hello>) map.values();
 		ArrayList<Hello> a = new ArrayList<Hello>();
