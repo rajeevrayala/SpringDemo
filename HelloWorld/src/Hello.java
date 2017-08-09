@@ -76,8 +76,10 @@ for(Entry entry:hashset){
 System.out.println("Welcome to GIT");
 System.out.println("hgcdskhdf");
 System.out.println("hi");
+System.out.println("no");
+System.out.println("new - branch");
 
-		/*Collection<Hello> list = (List<Hello>) map.values();
+/*Collection<Hello> list = (List<Hello>) map.values();
 		ArrayList<Hello> a = new ArrayList<Hello>();
 		a.addAll(list);
 		System.out.println(a);*/
